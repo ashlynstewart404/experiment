@@ -8,7 +8,7 @@
 
 ---
 
-![Samuel Clemens & Dorothea Lagne's "Migrant Mother" overlaid with AngularJS]({{site.baseurl}}/assets/images/angular-clemens-migrant.jpg)
+![Dave is so stoked for donut day]({{site.baseurl}}/assets/images/IMG_5037.jpg)
 
 *Samuel Clemens & Dorothea Lagne's "Migrant Mother*
 
